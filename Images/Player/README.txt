@@ -1,1 +1,0 @@
-Sprites do player
